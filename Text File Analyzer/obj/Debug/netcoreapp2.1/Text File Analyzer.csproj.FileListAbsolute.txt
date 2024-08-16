@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\MicrosoftJava\FunStuff\Text File Analyzer\Text File Analyzer\obj\Debug\netcoreapp2.1\Text File Analyzer.csprojAssemblyReference.cache
+C:\Users\USER\Documents\MicrosoftJava\FunStuff\Text File Analyzer\Text File Analyzer\obj\Debug\netcoreapp2.1\Text File Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\MicrosoftJava\FunStuff\Text File Analyzer\Text File Analyzer\obj\Debug\netcoreapp2.1\Text File Analyzer.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\MicrosoftJava\FunStuff\Text File Analyzer\Text File Analyzer\obj\Debug\netcoreapp2.1\Text File Analyzer.AssemblyInfo.cs
+C:\Users\USER\Documents\MicrosoftJava\FunStuff\Text File Analyzer\Text File Analyzer\bin\Debug\netcoreapp2.1\Text File Analyzer.deps.json
+C:\Users\USER\Documents\MicrosoftJava\FunStuff\Text File Analyzer\Text File Analyzer\bin\Debug\netcoreapp2.1\Text File Analyzer.runtimeconfig.json
+C:\Users\USER\Documents\MicrosoftJava\FunStuff\Text File Analyzer\Text File Analyzer\bin\Debug\netcoreapp2.1\Text File Analyzer.runtimeconfig.dev.json
+C:\Users\USER\Documents\MicrosoftJava\FunStuff\Text File Analyzer\Text File Analyzer\bin\Debug\netcoreapp2.1\Text File Analyzer.dll
+C:\Users\USER\Documents\MicrosoftJava\FunStuff\Text File Analyzer\Text File Analyzer\bin\Debug\netcoreapp2.1\Text File Analyzer.pdb
+C:\Users\USER\Documents\MicrosoftJava\FunStuff\Text File Analyzer\Text File Analyzer\obj\Debug\netcoreapp2.1\Text File Analyzer.dll
+C:\Users\USER\Documents\MicrosoftJava\FunStuff\Text File Analyzer\Text File Analyzer\obj\Debug\netcoreapp2.1\Text File Analyzer.pdb
